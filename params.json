@@ -1,0 +1,6 @@
+{
+  "name": "Fengine",
+  "tagline": "技术文章",
+  "body": "### Welcome to GitHub Pages.\r\n因为好奇，把个人主页建起来。希望能定期写一点技术学习方面的文章，作为自己的总结。从业快10年，但一直在浅显的业务功能制作层面徘徊，现在从0开始，分享即是学习。\r\n\r\n### Designer Templates\r\nGitHub手工制作了一些可用的模版，先试试这个。发布后也可以方便的重新访问这个页面引导功能切换到另一个主题，而内容会被保留。\r\n\r\n### Creating pages manually\r\n如果不喜欢使用自动生成器，可以手动建立`gh-pages`分支。除了支持常规的HTML内容，GitHub Pages支持Jekyll，一个简单的博客动态页面生成器。Jekyll使得容易创建一个网站标题和页脚而不需要复制它们到每一个页面。同时提供了智能博客支持和其它高级模版特性。\r\n\r\n### Support or Contact\r\n任何问题，请联系：fengshuwang@foxmail.com",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
